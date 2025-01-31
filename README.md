@@ -1,6 +1,6 @@
 Crop Recommendation System: A machine learning-based tool to optimize crop selection using soil, climate, and environmental data. Leverages SHAP & LIME for explainable AI, empowering farmers with data-driven decisions. Built with Python, Pandas, Scikit-learn. 🌱🚀 #AgriTech #ExplainableAI
 
-                                                                     Crop Recommendation System 🌱
+    Crop Recommendation System 🌱
 Welcome to the Crop Recommendation System, a machine learning-based solution designed to empower farmers and agricultural planners with data-driven insights for optimal crop selection. This system analyzes key agronomic and environmental factors to recommend the most suitable crops for specific regions, promoting sustainable agricultural practices and maximizing crop yield.
 
                                                                           Key Features ✨
